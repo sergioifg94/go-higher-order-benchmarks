@@ -1,0 +1,6 @@
+.vscode
+
+# Generated results
+/result.csv
+/plot_bperop.png
+/plot_nsperop.png
